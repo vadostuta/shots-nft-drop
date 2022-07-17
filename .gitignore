@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# temporary, until correct images would be
+/public/batch-upload
+/batch-upload

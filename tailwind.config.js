@@ -10,6 +10,12 @@ module.exports = {
             },
             padding: {
                 'snd-xl': '6.5rem'
+            },
+            width: {
+                'snd-xl': '13rem'
+            },
+            height: {
+                'snd-xl': '13rem'
             }
         }
     },
