@@ -3,8 +3,8 @@ import Image from 'next/image';
 const Letter = ({ symbol, imageNumber, open }) => {
 
   return (
-    <div className="mr-5 cursor-pointer relative w-snd-xl h-snd-xl text-center">
-      <div className="absolute inset-0 bg-cover z-0 text-snd-xl font-bold leading-snd-xl">
+    <div className="mr-5 cursor-pointer relative w-snd-2xl h-snd-2xl text-center sm:w-snd-sm 2xl:w-snd-2xl xl:w-snd-xl xl:h-snd-xl sm:h-snd-sm">
+      <div className="absolute inset-0 bg-cover z-0 text-snd-2xl sm:text-snd-sm 2xl:text-snd-2xl xl:text-snd-xl font-bold leading-snd-2xl xl:leading-snd-xl sm:leading-snd-sm 2xl:leading-snd-2xl">
         { symbol }
       </div>
       <Image

@@ -3,19 +3,27 @@ module.exports = {
     theme: {
         extend: {
             fontSize: {
-                'snd-xl': '17rem'
+                'snd-2xl': '12vw',
+                'snd-xl': '13vw',
+                'snd-sm': '14vw'
             },
             lineHeight: {
-                'snd-xl': '14rem'
+                'snd-2xl': '11vw',
+                'snd-xl': '11vw',
+                'snd-sm': '15vw',
             },
             padding: {
-                'snd-xl': '6.5rem'
+                'snd-2xl': '0rem'
             },
             width: {
-                'snd-xl': '13rem'
+                'snd-2xl': '10vw',
+                'snd-xl': '10vw',
+                'snd-sm': '13vw',
             },
             height: {
-                'snd-xl': '13rem'
+                'snd-2xl': '10vw',
+                'snd-xl': '10vw',
+                'snd-sm': '13vw',
             }
         }
     },
