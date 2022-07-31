@@ -14,6 +14,7 @@ const nextConfig = {
     nextImageExportOptimizer_storePicturesInWEBP: true,
     nextImageExportOptimizer_generateAndUseBlurImages: true,
   },
+  target: "serverless"
 }
 
 module.exports = nextConfig
