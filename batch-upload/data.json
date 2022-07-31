@@ -1,0 +1,212 @@
+[
+    {
+        "name": "drochuv",
+        "description": "Ty drochyv na mene by SND",
+        "image": "1.png",
+        "attributes": [
+            {
+                "trait_type": "person",
+                "value": "eric"
+            },
+            {
+                "trait_type": "rarity",
+                "value": "rare"
+            }
+        ]
+    },
+    {
+      "name": "htobyde",
+      "description": "Hto byde z puvovariv by SND",
+      "image": "2.png",
+      "attributes": [
+          {
+              "trait_type": "person",
+              "value": "eric"
+          },
+          {
+              "trait_type": "rarity",
+              "value": "rare"
+          }
+      ]
+  },
+  {
+    "name": "chogotop",
+    "description": "Chogo ce top by SND",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "4sv"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "normal"
+        }
+    ]
+  },
+  {
+    "name": "byvneprav",
+    "description": "Byv ne pravby SND",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "perepisdayniv",
+    "description": "perepis dayniv by SND",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "kowelok",
+    "description": "blat onovuv kowelok by SND",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "kickt2",
+    "description": "kickaem t2 by SND",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "eric"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "svyna",
+    "description": "it's fucking legendary pig by SND",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "legendary"
+        }
+    ]
+  },
+  {
+    "name": "vidpizdutu",
+    "description": "Mowy vidpizdutu by SND",
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "wavka",
+    "description": "wavka no ne kablyk by SND",
+    "image": "10.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "bezzakonna",
+    "description": "bezzakonna is yla sokuru by SND",
+    "image": "11.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "eric"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "rare"
+        }
+    ]
+  },
+  {
+    "name": "gavnoventulator",
+    "description": "gavn na vantulator by SND",
+    "image": "12.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "t2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "epic"
+        }
+    ]
+  },
+  {
+    "name": "shozachat",
+    "description": "Sho za chat by SND",
+    "image": "13.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "eric"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "epic"
+        }
+    ]
+  },
+  {
+    "name": "zachum",
+    "description": "Za chum by SND",
+    "image": "14.png",
+    "attributes": [
+        {
+            "trait_type": "person",
+            "value": "eric"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "epic"
+        }
+    ]
+  }
+]
