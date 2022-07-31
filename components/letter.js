@@ -1,4 +1,3 @@
-import ExportedImage from "next-image-export-optimizer";
 import Image from "next/image";
 
 const Letter = ({ symbol, imageNumber, open }) => {
