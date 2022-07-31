@@ -8,7 +8,7 @@ const Letter = ({ symbol, imageNumber, open }) => {
         { symbol }
       </div>
       <ExportedImage
-        src={`/batch-upload/${imageNumber}.png`}
+        src={`batch-upload/${imageNumber}.png`}
         alt="Picture of the author"
         layout="fill"
         objectFit="fill"
