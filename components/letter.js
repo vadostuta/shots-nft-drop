@@ -1,4 +1,5 @@
 import ExportedImage from "next-image-export-optimizer";
+import Image from "next/image";
 
 const Letter = ({ symbol, imageNumber, open }) => {
 
@@ -7,8 +8,8 @@ const Letter = ({ symbol, imageNumber, open }) => {
       <div className="absolute inset-0 bg-cover z-0 text-snd-2xl sm:text-snd-sm 2xl:text-snd-2xl xl:text-snd-xl font-bold leading-snd-2xl xl:leading-snd-xl sm:leading-snd-sm 2xl:leading-snd-2xl">
         { symbol }
       </div>
-      <ExportedImage
-        src={`batch-upload/${imageNumber}.png`}
+      <Image
+        src={`/batch-upload/${imageNumber}.png`}
         alt="Picture of the author"
         layout="fill"
         objectFit="fill"
